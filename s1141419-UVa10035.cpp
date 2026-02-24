@@ -7,7 +7,7 @@ static void solution(unsigned int first, unsigned int second) {
     bool carry{ 0 };
 
     // Loop until every digit is processed.
-    while (first > 0 && second > 0) {
+    while (first > 0 || second > 0) {
         // Determine if a carry operation happens, if it does, remember the occurence and add 1 to carry count, otherwise reset the carry variable.
         if ((first % 10 + second % 10 + carry) >= 10) {
             carry = 1;
@@ -46,7 +46,7 @@ int main() {
     std::cin >> numOne >> numTwo;
 
     // Stop processing the numbers if both numbers are 0.
-    while ((numOne != 0) && (numTwo != 0)) {
+    while ((numOne != 0) || (numTwo != 0)) {
         solution(numOne, numTwo);
         std::cin >> numOne >> numTwo;
     }
