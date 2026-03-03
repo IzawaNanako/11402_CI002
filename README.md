@@ -10,19 +10,24 @@ This repository (11402_CI002) is dedicated to storing my assignments, documentat
 
 ### GitHub Pages Site
 
-You can view my published personal website here:
-<https://www.saduwub.com/>
+You can view my published personal website here: <https://www.saduwub.com/>
 
 ### File Organization
 
 /practices/ - Contains source codes for practices each week.
+
 README.md - The main documentation for this course repository.
 
 ## Student Info
 
 Name: I-MING LIN
+
 Student ID: 1141419
+
 GitHub Username: IzawaNanako
+
 GitHub Profile: <https://github.com/IzawaNanako>
+
 Course Repository URL: <https://github.com/IzawaNanako/11402_CI002>
+
 GitHub Pages URL: <https://www.saduwub.com/>
