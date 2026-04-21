@@ -7,7 +7,7 @@
 - **Problem Title:** Fourth Point !!
 - **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1183
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

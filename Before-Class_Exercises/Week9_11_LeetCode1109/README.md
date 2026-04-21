@@ -7,7 +7,7 @@
 - **Problem Title:** Corporate Flight Bookings
 - **Problem Link:** https://leetcode.com/problems/corporate-flight-bookings/
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -7,7 +7,7 @@
 - **Problem Title:** List of Conquests
 - **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1361
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -1,12 +1,12 @@
-# LeetCode 125 - Valid Palindrome
+# UVa 10341 - Solve It
 
 ## 1. Problem Information
 
-- **Platform:** LeetCode
-- **Problem ID:** 125
-- **Problem Title:** Valid Palindrome
-- **Problem Link:** https://leetcode.com/problems/valid-palindrome/
-- **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Platform:** UVa
+- **Problem ID:** 10341
+- **Problem Title:** Solve It
+- **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1282
+- **Source Code (Fail):** [src/main.cpp](./src/your-file-name.cpp)
 - **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words

@@ -7,7 +7,7 @@
 - **Problem Title:** Kth Smallest Element in a Sorted Matrix
 - **Problem Link:** https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

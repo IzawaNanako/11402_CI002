@@ -7,7 +7,7 @@
 - **Problem Title:** Find K Closest Elements
 - **Problem Link:** https://leetcode.com/problems/find-k-closest-elements/description/
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

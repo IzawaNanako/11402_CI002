@@ -7,7 +7,7 @@
 - **Problem Title:** Best Time to Buy and Sell Stock
 - **Problem Link:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 

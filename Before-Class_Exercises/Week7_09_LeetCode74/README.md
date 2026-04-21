@@ -7,7 +7,7 @@
 - **Problem Title:** Search a 2D Matrix
 - **Problem Link:** https://leetcode.com/problems/search-a-2d-matrix/description/
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
-- **Source Code (Correct/Accepted):** [src/your-file-name.cpp](./src/your-file-name.cpp)
+- **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
 ## 2. Problem Statement in My Own Words
 
