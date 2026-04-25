@@ -1,11 +1,11 @@
-# UVa 10341 - Solve It
+# UVa 1121 - Subsequence
 
 ## 1. Problem Information
 
 - **Platform:** UVa
-- **Problem ID:** 10341
-- **Problem Title:** Solve It
-- **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1282
+- **Problem ID:** 1121
+- **Problem Title:** Subsequence
+- **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3562
 - **Source Code (Fail):** [src/main.cpp](./src/your-file-name.cpp)
 - **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 

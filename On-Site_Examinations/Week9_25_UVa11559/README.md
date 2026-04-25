@@ -1,11 +1,11 @@
-# UVa 10341 - Solve It
+# UVa 11559 - Event Planning
 
 ## 1. Problem Information
 
 - **Platform:** UVa
-- **Problem ID:** 10341
-- **Problem Title:** Solve It
-- **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1282
+- **Problem ID:** 11559
+- **Problem Title:** Event Planning
+- **Problem Link:** https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2595
 - **Source Code (Fail):** [src/your-file-name.cpp](./src/your-file-name.cpp)
 - **Source Code (Correct/Accepted):** [src/main.cpp](./src/main.cpp)
 
